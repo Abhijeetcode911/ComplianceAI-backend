@@ -1,0 +1,6 @@
+# Consolidated Final Compliance Report
+
+## Code Violated: Chapter X, Section Y of ASCI Code
+- The disclaimer does not occupy 20% of the advertisement space.
+- The font for the disclaimer is not clearly visible as matching the font of the claims or in sans serif for better readability.
+- The contrast of the disclaimer text with the background is not clear enough for legibility.
