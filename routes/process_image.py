@@ -11,7 +11,7 @@ from backend.models import model_image , model_assistant
 
 
 load_dotenv()
-os.environ["OPENAI_API_KEY"] = "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"
+
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 # Determine the path to the JSON file (assuming it's in the same directory)
