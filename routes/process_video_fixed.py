@@ -21,7 +21,7 @@ import re
 # Load environment variables and API key
 
 load_dotenv()
-#os.environ["OPENAI_API_KEY"] = "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"
+
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 
